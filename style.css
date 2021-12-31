@@ -48,3 +48,9 @@ h4{
     color: white;
     font-weight: bold;
 }
+.results{
+width: 50%;
+background-color: pink;
+font-weight: bold;
+color: black;
+}
